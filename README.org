@@ -1,7 +1,7 @@
 #+title: Hello 👋 I am Costin Dragoi
 
 - 📚 I am a student at UNICAM university in Camerino.
-- 💻 I am  learning Clojure because is the easiest and best language out there.
+- 💻 I am  learning Clojure because is the easiest and most modern programming language out there.
 - 🏁 I want to be a developer buildings bots for cyber-security.
 - 📍 My next goals:
   + 📎 Be a good web developper.
