@@ -1,0 +1,13 @@
+#+title: Hello 👋 I am Costin Dragoi
+
+- 📚 I am a student at UNICAM university in Camerino.
+- 💻 I am  learning Clojure because is the easiest and best language out there.
+- 🏁 I want to be a developer buildings bots for cyber-security.
+- 📍 My next goals:
+  + 📎 Be a good web developper.
+  + 📎 Learn at least one imperative programming language (JS) to not stay unemployed.
+  + 📎 Increase my typing speed to reach 80 wpm; thanks [[https://www.keybr.com][Kebr]].
+- 🤒 I need help to move human race out of this planet.
+- 💬 Ask me if you don't understand why functional programming and immutable data is better than traditional programming.
+- 😇 We are all white hat hackers here, join [[https://t.me/pdpfsug][the club]].
+- ⚡️ Fun fact: I sing the flute and play [[https://www.factorio.com][Factorio]].
