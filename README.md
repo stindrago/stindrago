@@ -12,4 +12,4 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/stindrago"><img src="https://skillicons.dev/icons?i=emacs,vscode,git,github,clojure,html,css,js,clojure,bash,latex,tailwind,react,linux,raspberrypi,npm,"> </a> </p>
+<p align="left"> <a href="https://github.com/stindrago"><img src="https://skillicons.dev/icons?i=emacs,vscode,git,github,clojure,html,css,js,clojure,bash,latex,md,tailwind,react,linux,raspberrypi,docker,npm,"> </a> </p>
