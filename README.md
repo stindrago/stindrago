@@ -10,6 +10,12 @@
 <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/DXxwMvzzTp8">
+    <img alt="FP vs OOP - Clojure Talk" title="FP vs OOP - Clojure's Stand for Functional Programming" src="https://img.shields.io/badge/-FP_vs_OOP_Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"/>
+  </a>
+</p>
+
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/stindrago"><img src="https://skillicons.dev/icons?i=emacs,vscode,git,github,html,css,js,clojure,bash,latex,md,tailwind,react,linux,raspberrypi,docker,npm,"> </a> </p>
